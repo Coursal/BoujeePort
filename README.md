@@ -47,4 +47,15 @@ plus a vector with the securities the client has (that are being passed by refer
 
 ## Class Diagram
 
-![](readme_pics/classDiagram.png)
+![](readme_pics/classdiagram.png)
+
+
+## Easin' it up
+
+* all types of menus (main and subs) are concetrated to [menus.cpp](https://github.com/Coursal/BoujeePort/blob/master/menus.cpp)
+* if-else instead of switch-case for better and simpler code
+* initializing ten (10) portfolios for testing purposes
+* use of a client's registration number as a reference for uniqueness in relation to other clients
+* looping the main menu display to choose several function in a session
+* attachment of two (2) files named [ABC1234ZXC](https://github.com/Coursal/BoujeePort/blob/master/ABC1234ZXC) and [Q111Q111](https://github.com/Coursal/BoujeePort/blob/master/Q111Q111) to test the direct securities loading from file by adding a new 
+
